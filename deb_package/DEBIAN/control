@@ -1,0 +1,11 @@
+Package: pcmanfm-thumbnailer
+Version: 0.0.1
+Architecture: all
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Installed-Size: 
+Depends: poppler-utils, djvulibre-bin
+Section: utils
+Priority: optional
+Homepage: https://winunix.github.io
+Description: Thumbnails confs for pcmanfm
+ This package enable thumbnails of PDF and DjVu from PCManFM.

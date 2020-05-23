@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+Exec=ddjvu -format=tiff -page=1 -size=%sx%s %i %o
+MimeType=image/vnd.djvu+multipage;image/vnd.djvu;
+

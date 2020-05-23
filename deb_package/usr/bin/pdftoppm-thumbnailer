@@ -1,0 +1,4 @@
+#!/bin/bash
+
+out="$3"
+pdftoppm -png -singlefile -scale-to $1 "$2" "${out%".png"}"
